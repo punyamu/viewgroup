@@ -1,0 +1,2 @@
+rootProject.name='viewgroup'
+include ':app'

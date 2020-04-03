@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyActivityApplication</string>
+    <string name="favorite_dood">Favorite Dood:</string>
+    <string name="occupation">Occupation:</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name:</string>
+    <string name="location">Location:</string>
+</resources>
